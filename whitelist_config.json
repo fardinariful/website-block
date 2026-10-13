@@ -1,0 +1,9 @@
+{
+    "whitelist": [
+        "google.com",
+        "udvash-unmesh.com"
+    ],
+    "port": 8989,
+    "pin_enabled": false,
+    "pin_hash": ""
+}
